@@ -1,0 +1,50 @@
+{
+  "name": "AlgorithmDB 8f120e00",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-8f120e00-eb88-4170-b307-663c6bb925cb"
+  ],
+  "id": "3d5893ab-be49-4ac0-8ba0-b62bfef59324",
+  "metadata": {
+    "neo4jDesktopDbmsDatabases": [
+      {
+        "name": "neo4j",
+        "type": "standard",
+        "aliases": [],
+        "access": "read-write",
+        "address": "localhost:7687",
+        "role": "primary",
+        "writer": true,
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "statusMessage": "",
+        "default": true,
+        "home": true,
+        "constituents": [],
+        "statistics": {
+          "nodes": 3783,
+          "relationships": 24186,
+          "labels": 1,
+          "relationshipTypes": 1,
+          "propertyKeys": 2
+        }
+      },
+      {
+        "name": "system",
+        "type": "system",
+        "aliases": [],
+        "access": "read-write",
+        "address": "localhost:7687",
+        "role": "primary",
+        "writer": true,
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "statusMessage": "",
+        "default": false,
+        "home": false,
+        "constituents": []
+      }
+    ]
+  },
+  "isCustomPathInstallation": false
+}
